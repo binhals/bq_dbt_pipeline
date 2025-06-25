@@ -1,10 +1,10 @@
-Welcome to your new dbt project!
+Welcome to my dbt project!
 
 ### Using the starter project
 
-Try running the following commands:
-- dbt run
-- dbt test
+I will create data models using DBT and setup tables/dataset in BigQuery:
+
+
 
 
 ### Resources:
